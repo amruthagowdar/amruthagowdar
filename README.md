@@ -12,9 +12,6 @@
 
 - 📫 Reach out to me at **amrutha2006gowda@gmail.com**
 
-<h3 align="left">GitHub Stats:</h3>
-<div><br>
-</div>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
