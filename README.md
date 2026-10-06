@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently been learning Gen AI - AWS
   
-- 💻 All of my projects are available on [GitHub](https://github.com/Nithingowda16)
+- 💻 All of my projects are available on [GitHub](https://github.com/amruthagowdar)
 
 - 💬 Ask me about **Programming, Gen AI, Aws Cloud**
 
